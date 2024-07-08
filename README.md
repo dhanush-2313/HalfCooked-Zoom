@@ -1,4 +1,7 @@
-# Meet 
+#!/bin/bash
+
+cat <<EOF > README.md
+# Meet Application
 
 ## Overview
 
@@ -88,4 +91,4 @@ Future enhancements planned for the Meet application include:
 - Enhanced security features for data encryption.
 - Integration with third-party applications (e.g., calendar integration).
 - Mobile application development for Android and iOS platforms.
-
+EOF
